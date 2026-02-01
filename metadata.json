@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EarnMax - Video & Referral App",
+  "description": "A Telegram-style mini-app for watching videos, completing tasks, and earning rewards with a hidden admin panel for full control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
